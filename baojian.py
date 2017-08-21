@@ -18,14 +18,14 @@ _xls_backup = setting['xls_backup']
 _xml_backup = setting['xml_backup']
 # 测试FTP服务器
 # _ip = '192.168.4.196'
-# _uname = 'renji'
-# _pwd = 'renji'
+# _uname = 'xxx'
+# _pwd = 'xxx'
 # _port = 21
 # 正式FTP服务器
-_ip = '122.114.201.11'
-_uname = 'vipomsZB'
-_pwd = 'vipomsBS'
-_port = 211
+_ip = '122.114.xxx.xx'
+_uname = 'xxxxxx'
+_pwd = 'xxxxxx'
+_port = 21
 
 
 def md5_num():
